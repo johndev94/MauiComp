@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LoginUI
+build_property.ProjectDir = C:\Users\John\Desktop\L00161731\LoginUI\LoginUI\
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/AbsoluteLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.AbsoluteLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsoluteLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsoluteLayout.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/FlexLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.FlexLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayout.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/GridView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.GridView.xaml
+build_metadata.AdditionalFiles.TargetPath = GridView.xaml
+build_metadata.AdditionalFiles.RelativePath = GridView.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/Login2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.Login2.xaml
+build_metadata.AdditionalFiles.TargetPath = Login2.xaml
+build_metadata.AdditionalFiles.RelativePath = Login2.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/StackLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.StackLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = StackLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = StackLayout.xaml
+
+[C:/Users/John/Desktop/L00161731/LoginUI/LoginUI/Testing.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginUI.Testing.xaml
+build_metadata.AdditionalFiles.TargetPath = Testing.xaml
+build_metadata.AdditionalFiles.RelativePath = Testing.xaml

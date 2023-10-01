@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:mycode="clr-namespace:LoginUI"
+             x:Class="LoginUI.Testing"
+             Title="Testing">
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label Text="Message" TextColor="White" FontSize="{mycode:GlobalFontSize}" FontAttributes="Bold" x:Name="textTest"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Button Text="Click Me" BackgroundColor="AliceBlue" x:Name="btnTest" FontSize="{mycode:GlobalFontSize}"/>
+    </VerticalStackLayout>
+</ContentPage>

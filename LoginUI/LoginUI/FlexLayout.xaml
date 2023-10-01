@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginUI.FlexLayout"
+             Title="FlexLayout">
+    <!-- Styles-->
+    <ContentPage.Resources>
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="DarkSlateBlue"/>
+            <Setter Property="BorderColor" Value="Azure"/>
+            <Setter Property="BorderWidth" Value="3"/>
+            <Setter Property="TextColor" Value="{StaticResource NormalButtonTextColour}"/>
+        </Style>
+        <!-- Override -->
+        <Style x:Key="OverrideStyle" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="DarkSlateBlue"/>
+            <Setter Property="BorderColor" Value="Azure"/>
+            <Setter Property="BorderWidth" Value="3"/>
+            <Setter Property="TextColor" Value="Black"/>
+        </Style>
+    </ContentPage.Resources>
+
+    <FlexLayout 
+        Direction="Row"
+        AlignItems="Center"
+        JustifyContent="SpaceEvenly"
+        Wrap="Wrap">
+
+        <Label 
+            Text="Flex Layout in action"
+            FontSize="18"/>
+        <Image
+            Source="dotnet_bot.png"
+            HeightRequest="300"/>
+
+        <Button Text="Does nothing"/>
+        <Button Text="Does nothing"/>
+        <Button Text="Does nothing"/>
+        <!-- Override style -->
+        <Button Text="Does nothing"
+                Style="{StaticResource OverrideStyle}"/>
+        <Label Text="Yet another label"/>
+      
+
+    </FlexLayout>
+    
+</ContentPage>

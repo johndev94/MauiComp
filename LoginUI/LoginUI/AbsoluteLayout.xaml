@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginUI.AbsoluteLayout"
+             Title="AbsoluteLayout">
+
+    <AbsoluteLayout Margin="0" BackgroundColor="White">
+        <BoxView Color="Silver"
+                 AbsoluteLayout.LayoutBounds="0, 10, 200, 5"/>
+        <BoxView Color="Silver"
+                 AbsoluteLayout.LayoutBounds="0, 20, 200, 5"/>
+        <BoxView Color="Silver"
+                 AbsoluteLayout.LayoutBounds="10, 0, 5, 65"/>
+        <BoxView Color="Silver"
+                 AbsoluteLayout.LayoutBounds="20, 0, 5, 65"/>
+        
+        <!-- Proportional-->
+        <BoxView Color="Silver"
+                 AbsoluteLayout.LayoutBounds="0.5, 0.5, 50, 0.25"
+                 AbsoluteLayout.LayoutFlags="PositionProportional,HeightProportional"/>
+        
+        <!-- Proportional coloured -->
+        <BoxView Color="Blue"
+                 AbsoluteLayout.LayoutBounds="0.5, 0, 0.2, 20"
+                 AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"/>
+        <BoxView Color="Black"
+         AbsoluteLayout.LayoutBounds="0.5, 1, 0.2, 20"
+         AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"/>
+        <BoxView Color="Red"
+                 AbsoluteLayout.LayoutBounds="0, 0.5, 20, 0.2"
+                 AbsoluteLayout.LayoutFlags="PositionProportional,HeightProportional"/>
+        <BoxView Color="Green"
+         AbsoluteLayout.LayoutBounds="1, 0.5, 20, 0.2"
+         AbsoluteLayout.LayoutFlags="PositionProportional,HeightProportional"/>
+        <Label Text="Centered Text"
+               FontSize="18"
+                AbsoluteLayout.LayoutBounds="0.5, 0.5, 20, 0.2"
+               AbsoluteLayout.LayoutFlags="PositionProportional,SizeProportional"/>
+               
+
+
+    </AbsoluteLayout>
+    
+    
+</ContentPage>
