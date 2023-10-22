@@ -1,1 +1,1 @@
-C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\LoginUI.csproj;x64
+C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\LoginUI.csproj;x64

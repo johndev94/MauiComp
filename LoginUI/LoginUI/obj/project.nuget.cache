@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vycajTEBSCV9SDm4mRY01srzcG7oFYdh6QyMHjf02xReozQUi494bLlISIamUT27TL8+aZ0HeGJCIjsFAV2VvA==",
+  "dgSpecHash": "O82sX0um1J7Ta7F2Ggt8v1nimPsNWOUAzyNGfrZaPA/dU4FPb97FPyqi2Kugy9X1TTDbmxi9W+m52AFe5Mi3Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\LoginUI\\LoginUI\\LoginUI.csproj",
+  "projectFilePath": "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\MauiComp\\LoginUI\\LoginUI\\LoginUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\John\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

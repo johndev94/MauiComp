@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>4466918f-3c32-4486-8d10-045fcfb14856</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>AAEE6B09A14E3C7A98531F51565279D5A7F4F5F5B99C58C20BFE6B3AA63FFAF4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4466918f-3c32-4486-8d10-045fcfb14856_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4466918f-3c32-4486-8d10-045fcfb14856_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-20T16:41:44.201</Modified>
+      <Modified>2023-10-22T22:14:12.398</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-10-20T16:41:43.901</Modified>
+      <Modified>2023-10-22T22:14:12.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginUI.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginUI.runtimeconfig.json">
       <PackagePath>LoginUI.runtimeconfig.json</PackagePath>
-      <Modified>2023-10-20T16:18:10.386</Modified>
+      <Modified>2023-10-22T22:14:11.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginUI.dll">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginUI.dll">
       <PackagePath>LoginUI.dll</PackagePath>
-      <Modified>2023-10-20T16:41:42.611</Modified>
+      <Modified>2023-10-22T22:14:09.996</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>LoginUI.exe</PackagePath>
-      <Modified>2023-10-20T16:41:42.660</Modified>
+      <Modified>2023-10-22T22:14:10.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginUI.deps.json">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LoginUI.deps.json">
       <PackagePath>LoginUI.deps.json</PackagePath>
-      <Modified>2023-10-20T16:41:06.831</Modified>
+      <Modified>2023-10-22T22:14:11.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.11\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -933,239 +933,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-06-30T15:50:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-09-28T18:48:46.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:20.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:20.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:20.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:20.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:20.737</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-09-28T18:48:46.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-09-28T18:48:46.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-09-28T18:49:20.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:21.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:21.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:21.147</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:21.167</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:21.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-09-28T18:49:20.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-09-28T18:49:20.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-09-28T18:49:20.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-09-28T18:49:20.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-09-28T18:49:20.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-09-28T18:49:20.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-09-28T18:49:20.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-09-28T18:49:20.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-09-28T18:49:20.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-09-28T18:49:20.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:20.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:20.802</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:20.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:20.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:20.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-09-28T18:49:20.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-09-28T18:49:20.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-09-28T18:49:20.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-09-28T18:49:20.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-09-28T18:49:20.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:20.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:20.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:21.006</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:21.014</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:21.029</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:20.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:20.969</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:20.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:20.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:20.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:20.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:20.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:20.918</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:20.924</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:20.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:21.035</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:21.043</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:21.051</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:21.064</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:21.117</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-09-28T18:49:20.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-09-28T18:49:20.903</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-09-28T18:49:20.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-09-28T18:49:20.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\John\Desktop\Coding Projects\C_Sharp\MauiComp\LoginUI\LoginUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-09-28T18:49:21.016</Modified>
     </AppxPackagedFile>
