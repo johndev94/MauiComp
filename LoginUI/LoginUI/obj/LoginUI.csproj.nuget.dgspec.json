@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\L00161731\\LoginUI\\LoginUI\\LoginUI.csproj": {}
+    "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\LoginUI\\LoginUI\\LoginUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\L00161731\\LoginUI\\LoginUI\\LoginUI.csproj": {
+    "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\LoginUI\\LoginUI\\LoginUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\L00161731\\LoginUI\\LoginUI\\LoginUI.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\LoginUI\\LoginUI\\LoginUI.csproj",
         "projectName": "LoginUI",
-        "projectPath": "C:\\Users\\John\\Desktop\\L00161731\\LoginUI\\LoginUI\\LoginUI.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\LoginUI\\LoginUI\\LoginUI.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\L00161731\\LoginUI\\LoginUI\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\Coding Projects\\C_Sharp\\LoginUI\\LoginUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
